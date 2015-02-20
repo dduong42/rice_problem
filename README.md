@@ -8,7 +8,7 @@ Given a chessboard with in each square a certain amount of rice grains. Find the
 
 ## Hints:
 
-At first I thought of bruteforcing, using graph theory, etc. But it took too much time and too much space. The hint is in the fact that it takes `O(nm)` (so you only need a fixed number of matrix of the same size, and you only need to iterate a fixed number of time).
+At first I thought of bruteforcing, using graph theory, etc. But it took too much time and too much space. The hint is in the fact that it takes `O(nm)` (so you only need a fixed number of matrices of the same size, and you only need to iterate a fixed number of time).
 
 You should think about *how* to iterate over the matrix.
 
