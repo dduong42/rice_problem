@@ -14,4 +14,4 @@ You should think about *how* to iterate over the matrix.
 
 ## Solution:
 
-The solution is given in the `solution` branch
+See `solution.py`
