@@ -1,5 +1,5 @@
 # rice_problem
-Solution to a funny interview question given by a coworker @[ltbesh](https://github.com/ltbesh)
+Funny interview question given by a coworker @[ltbesh](https://github.com/ltbesh)
 
 ## The problem:
 
