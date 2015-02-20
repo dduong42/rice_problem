@@ -12,4 +12,6 @@ At first I thought of bruteforcing, using graph theory, etc. But it took too muc
 
 You should think about *how* to iterate over the matrix.
 
+## Solution:
+
 The solution is given in the `solution` branch
