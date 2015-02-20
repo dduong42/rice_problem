@@ -136,5 +136,5 @@ def solve(rice_matrix):
     print('Quantity:', helper_matrix[nb_rows - 1, nb_columns - 1])
 
 if __name__ == '__main__':
-    _rice_matrix = Matrix.from_list(RICE)
-    solve(_rice_matrix)
+    rice_matrix = Matrix.from_list(RICE)
+    solve(rice_matrix)
