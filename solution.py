@@ -14,7 +14,7 @@ class Matrix:
     @classmethod
     def from_list(cls, matrix_list):
         """
-        Return a Matrix for a list of lists.
+        Return a Matrix from a list of lists.
 
         """
         nb_rows = len(matrix_list)
